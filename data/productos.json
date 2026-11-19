@@ -1,0 +1,8 @@
+[
+    { "sku": "CAF-500", "nombre": "Café de origen Antioquia 500 g", "precio": 38000, "stock": 12 },
+    { "sku": "ARE-250", "nombre": "Arequipe artesanal 250 g", "precio": 14500, "stock": 20 },
+    { "sku": "COQ-12", "nombre": "Coquitos de coco x12", "precio": 18000, "stock": 15 },
+    { "sku": "BOC-24", "nombre": "Bocadillo veleño x24", "precio": 16000, "stock": 18 },
+    { "sku": "CHO-500", "nombre": "Chocolate de mesa 500 g", "precio": 12500, "stock": 25 },
+    { "sku": "PAN-1K", "nombre": "Panela orgánica pulverizada 1 kg", "precio": 9800, "stock": 30 }
+]
